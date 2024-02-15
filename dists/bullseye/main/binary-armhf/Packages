@@ -1,27 +1,27 @@
 Package: limo
-Version: 2.5
+Version: 2.6
 Architecture: all
 Maintainer: Florian Toens
 Priority: optional
 Section: main
-Filename: pool/main/l/limo/limo_2.5_all.deb
-Size: 2208
-SHA256: 99ba77aa949aa6d6243076b0c78b71698358372243ecddd96a0dc6a3ecc244c7
-SHA1: 77f8aaa2aeaf35d49dcd093bf979790f4f339a98
-MD5sum: 151aba212676254daceddcd4e76ad858
+Filename: pool/main/l/limo/limo_2.6_all.deb
+Size: 2264
+SHA256: f86df8ceafcc4032e4a4683f0697b8a04b692d384b90cfff3b8d5134c82c4796
+SHA1: 1060a849a7b4407c0ab1ea9b23c4b6d4373b5e5a
+MD5sum: 726fc4b7e4d2131e757a7f95e214c5bc
 Description: A sample Debian package named limo
 
 Package: limosubsystem
-Version: 1.1
+Version: 1.2
 Architecture: all
 Maintainer: Florian Toens
 Priority: optional
 Section: main
-Filename: pool/main/l/limosubsystem/limosubsystem_1.1_all.deb
-Size: 1064
-SHA256: 14c05edb47ca69c0ecfdd14bfa09540e7a8dabe3be974ca71e6efbbe28fa21e2
-SHA1: a851b527d0b7af9f8d38c3ee49a49cf3d63fb5c3
-MD5sum: 5cd4b7087332113bb3adda9078c5eda5
+Filename: pool/main/l/limosubsystem/limosubsystem_1.2_all.deb
+Size: 1100
+SHA256: f638ceef6111cfa8470d742a7dd5d72860f035436b74cc13ec47f44689b99330
+SHA1: c33f00b9110f3660f2b99dc8afbb72ebc53bace9
+MD5sum: a196487b4991088622b85af01e54272c
 Description: Installs the Limo Subsystem Service. See on Github Limo123123
 
 Package: test
@@ -36,4 +36,17 @@ SHA256: fb6706eaf5e26b5656c37b536725a0b5e28eb8c7c7c3dfa4c4d31c77afb0be9c
 SHA1: cc1b1b1bd792a87a7afe8a4c8381471edaaa2b17
 MD5sum: d85db036b382f59ae646e3b8a7ecb20b
 Description: A Debian package for Testing
+
+Package: www-limo-all
+Version: 1.0
+Architecture: all
+Maintainer: Florian Toens
+Priority: optional
+Section: main
+Filename: pool/main/w/www-limo-all/www-limo-all_1.0_all.deb
+Size: 944
+SHA256: 259c746d0f583b5acb93496f0cb4c47eee528f058c92ecdd07d7a5383b171617
+SHA1: 03e9cec0a2a1d395c7b88a0e3dc321cf621ff436
+MD5sum: a45af0a411b276ae14a8b87bc0d6929a
+Description: A Debian apckage to install all other packages
 
