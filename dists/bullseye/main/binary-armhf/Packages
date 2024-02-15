@@ -38,15 +38,15 @@ MD5sum: d85db036b382f59ae646e3b8a7ecb20b
 Description: A Debian package for Testing
 
 Package: www-limo-all
-Version: 1.0
+Version: 1.1
 Architecture: all
 Maintainer: Florian Toens
 Priority: optional
 Section: main
-Filename: pool/main/w/www-limo-all/www-limo-all_1.0_all.deb
-Size: 944
-SHA256: 259c746d0f583b5acb93496f0cb4c47eee528f058c92ecdd07d7a5383b171617
-SHA1: 03e9cec0a2a1d395c7b88a0e3dc321cf621ff436
-MD5sum: a45af0a411b276ae14a8b87bc0d6929a
+Filename: pool/main/w/www-limo-all/www-limo-all_1.1_all.deb
+Size: 1008
+SHA256: 0f554e33f752f57b1aa600fbb117eec54cc494935b6a5918482fe61d7fb6c4c7
+SHA1: cb812d247a8db3c92d1e90061ec5e9be36ccdf30
+MD5sum: c9a5de50e25b1f01e1145e9940b1db0a
 Description: A Debian apckage to install all other packages
 
