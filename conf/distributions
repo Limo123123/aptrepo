@@ -5,3 +5,7 @@ Architectures: arm64 armhf
 Codename: bullseye
 Components: main
 Architectures: arm64 armhf
+
+Codename: limmy
+Components: main beta
+Architectures: arm64 armhf
