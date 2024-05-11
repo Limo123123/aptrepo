@@ -1,0 +1,14 @@
+Package: limoaptservice
+Version: 1.1
+Architecture: all
+Depends: limo
+Maintainer: Florian Toens
+Priority: optional
+Section: main beta
+Filename: pool/main/l/limoaptservice/limoaptservice_1.1_all.deb
+Size: 952
+SHA256: 1099bcfc635268a2ff007607e5c460437902a8cafb01329cd8ef593bd039a2ec
+SHA1: 4d62bfa0b7e099aec57bd42ab86b2fab3b27323e
+MD5sum: fe9391ae9e53547ab6d3931185bb1a58
+Description: Can put you in the Limo Apt Beta
+
