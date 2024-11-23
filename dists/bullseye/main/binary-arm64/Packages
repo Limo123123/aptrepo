@@ -24,6 +24,20 @@ SHA1: 1555377c6c0dda79ec3f02aaafcc73457e408e0e
 MD5sum: 1a913eeed2901d856799885851fdec1c
 Description: Installs the Limo Subsystem Service. See on Github Limo123123
 
+Package: pi-apps
+Version: 1.1
+Architecture: arm64
+Maintainer: DPKG-BUILDER, Original Project from Botspot
+Priority: optional
+Section: utils
+Filename: pool/main/p/pi-apps/pi-apps_1.1_arm64.deb
+Size: 66655000
+SHA256: df29f3eee2deb0c43974c10fe3084f506544cf750a978479b2443baef4a678ad
+SHA1: 0cabe90b6e1bd8c5b8690e6225f7dd5c71541122
+MD5sum: 274788722420b84b0b8466ac831f6e85
+Description: Pi-Apps - A Collection for Apps and Tools
+Depends: yad, curl, wget, aria2, lsb-release, software-properties-common, apt-utils, apt-transport-https, gnupg, imagemagick, bc, librsvg2-bin, locales, shellcheck, git, wmctrl, xdotool, x11-utils, rsync, unzip, debsums, libgtk3-perl
+
 Package: test
 Version: 1.2
 Architecture: all
