@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Function: Cleans the PATH
+clean_path() {
+  export PATH=$(echo "$PATH" | tr ':' '\n' | grep -v ' ' | tr '\n' ':' | sed 's/:$//')
+  echo "PATH has been cleaned."
+}
+
+# Display help
+show_help() {
+  echo "Usage: fix [OPTION]"
+  echo
+  echo "Options:"
+  echo "  --path    Cleans the PATH by removing spaces"
+  echo "  --help    Displays this help message"
+}
+
+# Main logic
+case "$1" in
+  --path)
+    clean_path
+    ;;
+  --help)
+    show_help
+    ;;
+  *)
+    echo "Invalid option. Use '--help' for available options."
+    ;;
+esac

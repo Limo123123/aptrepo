@@ -1,13 +1,13 @@
 Codename: limmy
-Date: Sat, 11 May 2024 21:29:08 UTC
+Date: Fri, 29 Nov 2024 18:24:52 UTC
 Architectures: arm64 armhf
 Components: main beta
 MD5Sum:
- 57f724f5d9596dfe9ac3676ad60ce67d 415 main/binary-arm64/Packages
- 22c4f78aa52dcf055bc4ca49abe5652e 314 main/binary-arm64/Packages.gz
+ 70013552060cb5bd12fa06543064e5b5 854 main/binary-arm64/Packages
+ 52e78549d0b050b4d9750ba81baccdb8 515 main/binary-arm64/Packages.gz
  e89c28b1abf5bb6bbd1e9a3ebe9fe004 36 main/binary-arm64/Release
- 57f724f5d9596dfe9ac3676ad60ce67d 415 main/binary-armhf/Packages
- 22c4f78aa52dcf055bc4ca49abe5652e 314 main/binary-armhf/Packages.gz
+ 70013552060cb5bd12fa06543064e5b5 854 main/binary-armhf/Packages
+ 52e78549d0b050b4d9750ba81baccdb8 515 main/binary-armhf/Packages.gz
  12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 beta/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 beta/binary-arm64/Packages.gz
@@ -16,11 +16,11 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 beta/binary-armhf/Packages.gz
  b20633f814d63ff14c6b1f54391c60e6 36 beta/binary-armhf/Release
 SHA1:
- 947fcf8b6c08f5b8543f3ae98f36290b84c2e3d7 415 main/binary-arm64/Packages
- 50df81e69fb4a76b097f0aab1915132b29463018 314 main/binary-arm64/Packages.gz
+ e57a81b83f6f4d0ec0397cc6296398e6101c7104 854 main/binary-arm64/Packages
+ 47cdbf169cc0aeb3124fc4c3d626b139a283af7b 515 main/binary-arm64/Packages.gz
  26519fde445e683e74519b33601c3901c8a45e3b 36 main/binary-arm64/Release
- 947fcf8b6c08f5b8543f3ae98f36290b84c2e3d7 415 main/binary-armhf/Packages
- 50df81e69fb4a76b097f0aab1915132b29463018 314 main/binary-armhf/Packages.gz
+ e57a81b83f6f4d0ec0397cc6296398e6101c7104 854 main/binary-armhf/Packages
+ 47cdbf169cc0aeb3124fc4c3d626b139a283af7b 515 main/binary-armhf/Packages.gz
  4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 beta/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 beta/binary-arm64/Packages.gz
@@ -29,11 +29,11 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 beta/binary-armhf/Packages.gz
  d52ef987d81b6b7f694c36ad8592454bd749d4e1 36 beta/binary-armhf/Release
 SHA256:
- b7c0a2fd405483daea7f2f1a9f02550af13782ad3380059028547a7a3b91dc10 415 main/binary-arm64/Packages
- 53ab55cd313a1f85a161994904871b4b0eb7ec9f9c313243483f20c1ec6b63e0 314 main/binary-arm64/Packages.gz
+ 42029d4a53b2caeed403d97efe8f4cad7de369292837ceccc350bfd141f608db 854 main/binary-arm64/Packages
+ 4cf1cc1d07d96174867080c4bad8a912ab3bd31557ad77d98c2fe823ca4a848e 515 main/binary-arm64/Packages.gz
  1d2a5a16922021225a06cc93f71f6e6008afdf7049fe22e22d7e98be73c59edf 36 main/binary-arm64/Release
- b7c0a2fd405483daea7f2f1a9f02550af13782ad3380059028547a7a3b91dc10 415 main/binary-armhf/Packages
- 53ab55cd313a1f85a161994904871b4b0eb7ec9f9c313243483f20c1ec6b63e0 314 main/binary-armhf/Packages.gz
+ 42029d4a53b2caeed403d97efe8f4cad7de369292837ceccc350bfd141f608db 854 main/binary-armhf/Packages
+ 4cf1cc1d07d96174867080c4bad8a912ab3bd31557ad77d98c2fe823ca4a848e 515 main/binary-armhf/Packages.gz
  adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 beta/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 beta/binary-arm64/Packages.gz

@@ -1,0 +1,7 @@
+Package: fix
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Florian Töns (Limo123123), Limo Open Source Project
+Description: An easy fix Programm if there are some basic things you can easy fix

@@ -1,3 +1,16 @@
+Package: fix
+Version: 1.0
+Architecture: all
+Maintainer: Florian Töns (Limo123123), Limo Open Source Project
+Priority: optional
+Section: base
+Filename: pool/main/f/fix/fix_1.0_all.deb
+Size: 1362
+SHA256: e51066664a2f268c53b93b57c24271aa40b0d4e557d3365fe6a6b7df4b0709a9
+SHA1: 33c1c6ab86e6f0f72b290d0c2e8faeddac8aac08
+MD5sum: 9b4495d169133d3a81223440ebcfa60c
+Description: An easy fix Programm if there are some basic things you can easy fix
+
 Package: limo
 Version: 2.8
 Architecture: all
