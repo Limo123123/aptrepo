@@ -5,4 +5,4 @@ NOT ALL OF MY DEB PACKAGES ARE OPEN SOURCE! But some are it and it will become m
 
 # List of the Debian Packages
 
-- Fix -- DO you have an Path issue, because you have spaces? Fix fixes it, with the command fix --path 
+- Fix -- DO you have an Path issue, because you have spaces? Fix fixes it, with the command fix --path. Just make sure to run it with source! (. fix --path or source fix --path)
