@@ -9,3 +9,7 @@ Architectures: arm64 armhf
 Codename: limmy
 Components: main beta
 Architectures: arm64 armhf
+
+Codename: nova
+Components: main beta
+Architectures: arm64 armhf

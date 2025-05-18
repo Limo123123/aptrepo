@@ -1,0 +1,43 @@
+Codename: nova
+Date: Sun, 18 May 2025 17:14:28 UTC
+Architectures: arm64 armhf
+Components: main beta
+MD5Sum:
+ ff5e54d98666b60fbaee555d092a3c1c 3547 main/binary-arm64/Packages
+ 835ac9fd52e18b1be1585401a6d33af7 1643 main/binary-arm64/Packages.gz
+ e89c28b1abf5bb6bbd1e9a3ebe9fe004 36 main/binary-arm64/Release
+ 3c8ccd1229ee58e79ca434da518547bf 2889 main/binary-armhf/Packages
+ 6428f1784745f4f877b7c0f2cbc65c63 1291 main/binary-armhf/Packages.gz
+ 12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 beta/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 beta/binary-arm64/Packages.gz
+ a5b74d18a1d50418d336ea468522c521 36 beta/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 beta/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 beta/binary-armhf/Packages.gz
+ b20633f814d63ff14c6b1f54391c60e6 36 beta/binary-armhf/Release
+SHA1:
+ 48ff2f63c51478ba18be38a64f8ccfbfcbaf48a8 3547 main/binary-arm64/Packages
+ 57946fa4c7c0a4e4607eb38c8268d49ede83dfe6 1643 main/binary-arm64/Packages.gz
+ 26519fde445e683e74519b33601c3901c8a45e3b 36 main/binary-arm64/Release
+ dd1e0c5510218b67621dbb98bbae41bad1dd8c9d 2889 main/binary-armhf/Packages
+ e0fbfefe61944292d7b38f70bfd2dd2cd23702a5 1291 main/binary-armhf/Packages.gz
+ 4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 beta/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 beta/binary-arm64/Packages.gz
+ a8e282c2ce526e2459e8c1b685cb6d0581e40efd 36 beta/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 beta/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 beta/binary-armhf/Packages.gz
+ d52ef987d81b6b7f694c36ad8592454bd749d4e1 36 beta/binary-armhf/Release
+SHA256:
+ cbb5f399eeb15d4328e0d977d5341edc115341e27597bbd3b998b64e627ffa0b 3547 main/binary-arm64/Packages
+ e55fb40f8bd6970993ad2c2ead3232641493f54236addb2ea45187a7de893a9f 1643 main/binary-arm64/Packages.gz
+ 1d2a5a16922021225a06cc93f71f6e6008afdf7049fe22e22d7e98be73c59edf 36 main/binary-arm64/Release
+ c8cb6348c61a51b2bfc7a42fb4adc9b0e5fd8367646d607f7fe8444eec2beb72 2889 main/binary-armhf/Packages
+ c22c6f99f352abb1c94acc78b3a28f05b0504b87e54eb1ccf2f06d9149c3be13 1291 main/binary-armhf/Packages.gz
+ adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 beta/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 beta/binary-arm64/Packages.gz
+ f1ac2b0c9cdaf118a18b9f0541e55eaa4f1aa211be50422f1763d58244e84e06 36 beta/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 beta/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 beta/binary-armhf/Packages.gz
+ 5ed72e2724f1f1a42e7563bf0cae2d4f3f5e350937fa1ae8e14329efa8f3c530 36 beta/binary-armhf/Release
